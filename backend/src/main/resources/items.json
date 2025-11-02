@@ -1,0 +1,15 @@
+[
+
+  {
+    "id": 1,
+    "nombre": "Podcast de Historia",
+    "autor": "Narrador Histórico",
+    "duracion": 45
+  },
+  {
+    "id": 2,
+    "nombre": "Entrevista con Diseñador",
+    "autor": "UX Daily",
+    "duracion": 30
+  }
+]
